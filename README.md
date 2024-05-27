@@ -1,0 +1,1 @@
+# statistic_data_aggregator_bot
